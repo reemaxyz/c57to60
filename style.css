@@ -1,0 +1,29 @@
+#color{
+    background: linear-gradient(blue,green);
+    
+}
+#pic{
+    border-radius: 50%;
+}
+body{
+    text-align: center;
+}
+.line{
+    width:70px;
+    height: 10px;
+    background-color: brown;
+    margin: 100px auto ;
+
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+#updown{
+height: 200px;
+width: 200px;
+overflow: scroll;
+}
+#menu{
+    list-style:none;
+    position: fixed;
+}
